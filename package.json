@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "start": "node index.js",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.3"
-  }
+  },
+  "scripts": {
+    "start": "node index.js"
+ }
 }
